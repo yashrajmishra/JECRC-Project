@@ -1,5 +1,5 @@
 <p align="center">
-  Here's data <a href="https://api.covid19india.org">API</a>.
+  Here's presentation <a href="https://prezi.com/view/wX540DIQpBNG2riyP7oZ/">Preezi</a>.
 </p>
 
 ## Setup
